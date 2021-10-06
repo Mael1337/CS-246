@@ -1,3 +1,3 @@
-This part is for making git changes crash
+hello all
 And now I am doing some changes
 This changes are for the conflicts part
