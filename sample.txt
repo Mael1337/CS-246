@@ -1,2 +1,2 @@
-This is my first file with git
+This part is for making git changes crash
 And now I am doing some changes
