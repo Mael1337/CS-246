@@ -1,4 +1,4 @@
 hello all
 And now I am doing some changes
 This changes are for the conflicts part
-hi people
+hi people welcome
